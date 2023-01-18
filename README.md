@@ -16,4 +16,4 @@
 
 4、停止测试
 
-jmeter-stop.sh
+jmeter_stop.sh
